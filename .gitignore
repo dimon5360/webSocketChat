@@ -1,0 +1,12 @@
+# ignore webSocket_/Debug as solution
+/webSocketChatClient/Debug
+/webSocketChatServer/Debug
+
+# ignore webSocket_/webSocket_/Debug as source code
+/webSocketChatClient/webSocketChatClient/Debug
+/webSocketChatServer/webSocketChatServer/Debug
+
+#ignore vs settings
+/webSocketChatClient/.vs
+/webSocketChatServer/.vs
+
