@@ -1,2 +1,2 @@
 # webSocketChat
-Practice of knowladge from Skillbox intensive
+Practice of knowledges from Skillbox intensive
